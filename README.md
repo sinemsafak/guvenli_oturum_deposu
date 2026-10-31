@@ -6,6 +6,9 @@ Proje kapsamında `flutter_secure_storage` paketi kullanılarak temel bir güven
 
 > **Önemli:** Bu proje eğitim ve test amaçlıdır. Gerçek kullanıcı parolası veya gerçek erişim belirteci kullanılmamaktadır.
 
+## Görseller 
+<img width="369" height="380" alt="Ekran görüntüsü 2026-10-31 125807" src="https://github.com/user-attachments/assets/b0ac46fa-07f9-4fc4-9a2e-d758e2d946ae" />
+
 ## Projenin Amacı
 
 Bu çalışmanın amacı:
